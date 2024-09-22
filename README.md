@@ -1,4 +1,4 @@
-#MLDM Coursework: Machine Learning Model Comparison
+# MLDM Coursework: Machine Learning Model Comparison
 
 **Overview**
 This project explores and compares the performance of various machine learning algorithms on two datasets: real estate rental prices and socio-economic data for income classification. Seven machine learning models were implemented, each optimized and evaluated based on key metrics such as accuracy, precision, recall, F1-score, Mean Squared Error (MSE), and R-squared (R²). The goal of this project is to analyze which machine learning paradigms are most suitable for different types of tasks—classification and regression.
